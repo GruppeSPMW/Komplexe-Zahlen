@@ -1,0 +1,12 @@
+E:\Automation\C#- Projekte\test\test\obj\x86\Debug\test.exe
+E:\Automation\C#- Projekte\test\test\obj\x86\Debug\test.pdb
+E:\Automation\C#- Projekte\test\test\bin\Debug\test.exe
+E:\Automation\C#- Projekte\test\test\bin\Debug\test.pdb
+E:\Automation\C#- Projekte\test\test\obj\x86\Debug\Komplexrechner.csprojResolveAssemblyReference.cache
+E:\Automation\C#- Projekte\Komplexrechner\test\obj\x86\Debug\test.exe
+E:\Automation\C#- Projekte\Komplexrechner\test\obj\x86\Debug\test.pdb
+E:\Automation\C#- Projekte\Komplexrechner\test\bin\Debug\test.exe
+E:\Automation\C#- Projekte\Komplexrechner\test\bin\Debug\test.pdb
+E:\Automation\C#- Projekte\Komplexrechner\test\obj\x86\Debug\Komplexrechner.csprojResolveAssemblyReference.cache
+E:\Automation\Git\MeinErstesRepository\Komplexrechner\test\obj\x86\Debug\test.exe
+E:\Automation\Git\MeinErstesRepository\Komplexrechner\test\obj\x86\Debug\test.pdb

@@ -1,0 +1,5 @@
+E:\Automation\C#- Projekte\test\test\bin\Debug\test.exe
+E:\Automation\C#- Projekte\test\test\bin\Debug\test.pdb
+E:\Automation\C#- Projekte\test\test\obj\x86\Debug\test.exe
+E:\Automation\C#- Projekte\test\test\obj\x86\Debug\test.pdb
+E:\Automation\C#- Projekte\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
